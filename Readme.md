@@ -2,6 +2,8 @@
 Software developer with intense learning attitude through open-source codebases. Have expertise in WebRTC and TypeScript for elegant solutions. Proficient in Continuous Integration and continuous development , design patterns & efficient handling of data structures and algorithms.
 
 
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100010953489164) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.facebook.com/profile.php?id=100010953489164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@iam_raju_k) 
 
