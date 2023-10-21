@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with intense learning attitude through open-source codebases. Have expertise in WebRTC and TypeScript for elegant solutions. Proficient in Continuous Integration and Continuous development , design patterns & efficient handling of data structures and algorithms.
+Software Developer with intense learning attitude through open-source codebases. Have expertise in WebRTC and TypeScript for elegant solutions. Proficient in Continuous Integration and Continuous development, design patterns & efficient handling of data structures and algorithms.
 
 
 
